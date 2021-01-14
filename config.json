@@ -1,0 +1,14 @@
+{
+  "Terminal": {
+    "Network": {
+    }
+  },
+  "Data": {
+    "Path": {
+      "img": "C:\\Users\\Julian\\Documents\\Stosse.system\\data\\img"
+    }
+    },
+    "System": {
+      "Version": "Version: 0.1"
+    }
+  }
